@@ -1,2 +1,2 @@
 # bauen
-Web page for Bauen Group with deployment automation
+Web page for Bauen Group with webhook based deployment automation
